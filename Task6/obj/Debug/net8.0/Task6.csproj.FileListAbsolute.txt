@@ -1,0 +1,14 @@
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\MAGA\Desktop\C#\Homework\Homework2\Task6\obj\Debug\net8.0\ref\Task6.dll
